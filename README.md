@@ -75,8 +75,9 @@ Missing values in **Result**, **Blood sugar**, and **Diastolic blood pressure** 
 
 ## ▶️ How to Run
 
-### 1️⃣ Clone the repository
+
 ```bash
+1️⃣ Clone the repository
 git clone https://github.com/your-username/interactive-medical-dashboard.git
 cd interactive-medical-dashboard
 2️⃣ Install dependencies
